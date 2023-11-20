@@ -5,7 +5,8 @@
 **Lightweight** loading animation  **< 10k** 😎 <br>
 Compatible with React, Vue, Angular & other frameworks.
 
-![amazing-loading](https://github.com/gshohat/web-component-amazing-loading/assets/91323932/7378e173-2763-438b-8f44-f38bc92ce2f0)
+![amazing-loading](https://github.com/gshohat/web-component-amazing-loading/assets/91323932/262b135c-51ff-45ca-820f-1d1a70ff17ea)
+
 
 ## Vue usage
 
