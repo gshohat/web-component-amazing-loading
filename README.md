@@ -43,7 +43,7 @@ export default defineConfig({
     vue({
       template: {
         compilerOptions: {
-          isCustomElement: (tag) => tag.includes('vanilla-modal')
+          isCustomElement: (tag) => tag.includes('amazing-loading')
         }
       }
     })
