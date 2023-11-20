@@ -33,4 +33,26 @@ function showLoading(event) {
 
 <template>
 <amazing-loading id="amazing-loading"/>
-</template
+</template>
+```
+
+vite config
+```
+export default defineConfig({
+  plugins: [
+    vue({
+      template: {
+        compilerOptions: {
+          isCustomElement: (tag) => tag.includes('vanilla-modal')
+        }
+      }
+    })
+  ],
+```
+
+## Contact
+Feel free to ping me 💫
+<br>
+connect@giladshohat.com
+
+[giladshohat.com](https://giladshohat.com)
